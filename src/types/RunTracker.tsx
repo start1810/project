@@ -1,0 +1,1 @@
+export type TTracker = 'off' | 'on' | 'pause';
